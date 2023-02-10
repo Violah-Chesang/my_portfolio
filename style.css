@@ -23,6 +23,7 @@
     display: flex;
     padding: 0;
     justify-content: space-between;
+   
 }
 
 .logo img{
@@ -52,6 +53,10 @@
     box-sizing: border-box;
     width: 200px;
     text-align: right;
+}
+
+.nav-links ul{
+    position: fixed;
 }
 .nav-links li{
     list-style: none;
